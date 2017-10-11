@@ -11,8 +11,8 @@
 
     <distributionManagement>
         <repository>
-            <id>dropbox_mvn_repo</id>
-            <url>file://C:/Users/jzenk/Dropbox/dropbox_mvn_repo</url>
+            <id>danu_mvn_repo</id>
+            <url>file://C:/Users/jzenk/danu_mvn_repo</url>
         </repository>
     </distributionManagement>
 
